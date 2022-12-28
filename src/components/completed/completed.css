@@ -1,0 +1,9 @@
+.back {
+    display: flex;
+    align-items: center;
+    padding: 0 3rem;
+    width: 100vw;
+    text-decoration: none;
+    height: 4rem;
+    box-shadow: 0 2px 6px 0 rgb(182, 182, 182);
+}
